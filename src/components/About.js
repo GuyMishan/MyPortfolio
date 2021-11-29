@@ -1,7 +1,8 @@
 import React from "react";
 import { Icon } from "@iconify/react";
 import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
+import javascriptIcon from "@iconify/icons-logos/javascript";
+import typescriptIcon from "@iconify/icons-logos/typescript-icon";
 
 import profilepic from '../assets/images/myProfile.jpg'
 
@@ -33,7 +34,11 @@ function About(props) {
                   style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                 />
                 <Icon
-                  icon={vueIcon}
+                  icon={javascriptIcon}
+                  style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                />
+                <Icon
+                  icon={typescriptIcon}
                   style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                 />
               </span>

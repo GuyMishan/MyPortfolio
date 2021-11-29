@@ -5,13 +5,18 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
-          "class": "fab fa-github"
+          "url": "https://github.com/GuyMishan",
+          "class": "akar-icons:github-fill"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "url": "https://www.instagram.com/_guymishan_/",
+          "class": "akar-icons:instagram-fill"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/",
+          "class": "akar-icons:linkedin-fill"
         }
       ],
       "image": "myProfile.jpg"
