@@ -37,7 +37,7 @@ class Experience extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-react experience-icon"></i>}
+            icon={ <span className="iconify" data-icon="emojione-monotone:heavy-check-mark"></span>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "0px" }}>
@@ -83,7 +83,7 @@ class Experience extends Component {
                 textAlign: "center",
               }}
               icon={
-                <i className="fas fa-hourglass-start mx-auto experience-icon"></i>
+                <span className="iconify" data-icon="bx:bxs-hourglass-bottom"></span>
               }
             />
           </VerticalTimeline>
