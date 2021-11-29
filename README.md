@@ -13,6 +13,6 @@ at GitHub. Check live preview(link below).
 
 <h3>:eye_speech_bubble: Live demo</h3>
 
-Check live demonstration <a href="https://GuyMishan.github.io/MyPortfolio/"><strong>here</strong></a>
+Check live Portfolio <a href="https://GuyMishan.github.io/MyPortfolio/"><strong>here</strong></a>
 
 <img width="100%" src="https://github.com/GuyMishan/MyPortfolio/blob/master/src/assets/images/readme/readme3.PNG" alt="react frontend dev portfolio preview"/>
