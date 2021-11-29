@@ -20,4 +20,4 @@ at GitHub. Check live preview(link below).
 
 Check live demonstration <a href="https://GuyMishan.github.io/MyPortfolio/"><strong>here</strong></a>
 
-<img width="100%" src="https://GuyMishan.github.io/MyPortfolio/src/assets/images/readme/readme2.PNG" alt="react frontend dev portfolio preview"/>
+<img width="100%" src="https://github.com/GuyMishan/MyPortfolio/blob/master/src/assets/images/readme/readme2.PNG" alt="react frontend dev portfolio preview"/>
