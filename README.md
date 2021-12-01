@@ -6,4 +6,4 @@
 
 Check live Portfolio <a href="https://GuyMishan.github.io/MyPortfolio/"><strong>here</strong></a>
 
-<img height="350px" align="center" src="https://github.com/GuyMishan/MyPortfolio/blob/master/src/assets/images/readme/portgif.gif" alt="portfolio mobile demo gif"/>
+<img align="center" src="https://github.com/GuyMishan/MyPortfolio/blob/master/src/assets/images/readme/portgif.gif" alt="portfolio mobile demo gif"/>
