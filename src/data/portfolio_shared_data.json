@@ -54,8 +54,8 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "Node js",
+          "class": "devicon-nodejs-plain",
           "level": "65"
         },
         {
@@ -66,6 +66,26 @@
         {
           "name": "React",
           "class": "devicon-react-plain",
+          "level": "60"
+        },
+        {
+          "name": "React Native",
+          "class": "devicon-react-plain",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "Postgresesql",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
           "level": "60"
         }
       ]
