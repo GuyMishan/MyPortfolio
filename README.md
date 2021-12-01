@@ -1,4 +1,4 @@
-<img width="80%" align="center" src="https://github.com/GuyMishan/MyPortfolio/blob/master/src/assets/images/readme/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
+<img width="100%" align="center" src="https://github.com/GuyMishan/MyPortfolio/blob/master/src/assets/images/readme/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
 
 <br/>
 
