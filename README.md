@@ -6,4 +6,4 @@
 
 Check live Portfolio <a href="https://GuyMishan.github.io/MyPortfolio/"><strong>here</strong></a>
 
-<img width="100%" src="https://github.com/GuyMishan/MyPortfolio/blob/master/src/assets/images/readme/readme4.png" alt="react frontend dev portfolio preview"/>
+<img height="350px" align="center" src="https://github.com/GuyMishan/MyPortfolio/blob/master/src/assets/images/readme/portgif.gif" alt="portfolio mobile demo gif"/>
