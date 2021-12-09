@@ -34,17 +34,16 @@ function Projects(props) {
         <h1 className="section-title" style={{ color: "black" }}>
           <span>{resumeBasicInfo.section_name.projects}</span>
         </h1>
-        <div className="col-md-12 mx-auto">
           <div className="row mx-auto">
             {resumeProjects.map((project, i) => (
-              <div className="col-sm-12 col-md-6 col-lg-4">
-                <span className="portfolio-item d-block" >
-                  <div className="foto" onClick={() => detailsModalShowfunc(project)}>
-                    <div >
-                      <img src={images[Object.keys(images)[project.images[0]]]} style={{ height: '350px' }} alt="projectimg"/>
+              <div className="col">
+                <span className="portfolio-item d-block" style={{height:'100%'}}>
+                  <div className="foto" onClick={() => detailsModalShowfunc(project)} style={{height:'100%'}}>
+                    <div style={{height:'100%'}}>
+                      <img src={images[Object.keys(images)[project.images[0]]]} alt="projectimg"/>
                       <span className="project-date">{project.startDate}</span>
                       <br />
-                      <p className="project-title-settings mt-3">
+                      <p className="project-title-settings">
                         {project.title}
                       </p>
                     </div>
@@ -53,7 +52,6 @@ function Projects(props) {
               </div>
             ))}
           </div>
-        </div>
         <ProjectDetailsModal
           show={detailsModalShow}
           onHide={detailsModalClosefunc}
