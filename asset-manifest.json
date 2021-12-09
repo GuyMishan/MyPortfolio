@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.55ccab29.chunk.css",
-    "main.js": "/MyPortfolio/static/js/main.37f5e774.chunk.js",
-    "main.js.map": "/MyPortfolio/static/js/main.37f5e774.chunk.js.map",
+    "main.js": "/MyPortfolio/static/js/main.009fcb84.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.009fcb84.chunk.js.map",
     "runtime-main.js": "/MyPortfolio/static/js/runtime-main.b668f9d4.js",
     "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.b668f9d4.js.map",
     "static/css/2.d64471e2.chunk.css": "/MyPortfolio/static/css/2.d64471e2.chunk.css",
     "static/js/2.3c46a872.chunk.js": "/MyPortfolio/static/js/2.3c46a872.chunk.js",
     "static/js/2.3c46a872.chunk.js.map": "/MyPortfolio/static/js/2.3c46a872.chunk.js.map",
     "index.html": "/MyPortfolio/index.html",
-    "precache-manifest.af85e15b7ea67c5ae8ae2ab5ee177608.js": "/MyPortfolio/precache-manifest.af85e15b7ea67c5ae8ae2ab5ee177608.js",
+    "precache-manifest.94d90f4dcf67cd0ab108755fdd11d5e4.js": "/MyPortfolio/precache-manifest.94d90f4dcf67cd0ab108755fdd11d5e4.js",
     "service-worker.js": "/MyPortfolio/service-worker.js",
     "static/css/2.d64471e2.chunk.css.map": "/MyPortfolio/static/css/2.d64471e2.chunk.css.map",
     "static/css/main.55ccab29.chunk.css.map": "/MyPortfolio/static/css/main.55ccab29.chunk.css.map",
     "static/js/2.3c46a872.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.3c46a872.chunk.js.LICENSE.txt",
-    "static/media/ap1.jpg": "/MyPortfolio/static/media/ap1.26993fb8.jpg",
-    "static/media/ap2.jpg": "/MyPortfolio/static/media/ap2.aa2c8975.jpg",
-    "static/media/bp1.jpg": "/MyPortfolio/static/media/bp1.d262e4e3.jpg",
-    "static/media/bp2.jpg": "/MyPortfolio/static/media/bp2.84af7569.jpg",
-    "static/media/cp1.jpg": "/MyPortfolio/static/media/cp1.e37baa83.jpg",
+    "static/media/ap1.jpg": "/MyPortfolio/static/media/ap1.3a7f115d.jpg",
+    "static/media/ap2.jpg": "/MyPortfolio/static/media/ap2.78e186a6.jpg",
+    "static/media/bp1.jpg": "/MyPortfolio/static/media/bp1.8bc80513.jpg",
+    "static/media/bp2.jpg": "/MyPortfolio/static/media/bp2.70f09fad.jpg",
+    "static/media/cp1.jpg": "/MyPortfolio/static/media/cp1.e38d715c.jpg",
     "static/media/myProfile.jpg": "/MyPortfolio/static/media/myProfile.49e16195.jpg"
   },
   "entrypoints": [
@@ -26,6 +26,6 @@
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.3c46a872.chunk.js",
     "static/css/main.55ccab29.chunk.css",
-    "static/js/main.37f5e774.chunk.js"
+    "static/js/main.009fcb84.chunk.js"
   ]
 }
