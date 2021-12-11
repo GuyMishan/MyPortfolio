@@ -36,8 +36,8 @@ function Projects(props) {
         </h1>
           <div className="row mx-auto">
             {resumeProjects.map((project, i) => (
-              <div className="col">
-                <span className="portfolio-item d-block" style={{height:'100%'}}>
+              <div className="col-sm-12 col-md-6 col-lg-4" style={{paddingTop:'10px'}}>
+              <span className="portfolio-item d-block" style={{height:'100%'}}>
                   <div className="foto" onClick={() => detailsModalShowfunc(project)} style={{height:'100%'}}>
                     <div style={{height:'100%'}}>
                       <img src={images[Object.keys(images)[project.images[0]]]} alt="projectimg"/>
